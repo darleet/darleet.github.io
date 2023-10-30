@@ -12,7 +12,7 @@ json:
   description:
     - hello!
     - i am a second-year BMSTU student
-    - and also a backend developer in ITS Tech
+    - and also a backend developer in 'ITS Tech'
     - feel free to write to me
   contact:
     email: darleet@mail.ru
