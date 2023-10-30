@@ -1,2 +1,36 @@
-name: darleet webpage
-remote_theme: "cotes2020/jekyll-theme-crispy"
+# this is only for search engines, it does not appear in the home
+# as long as the json variables name and description are provided
+title: darleet website
+description: darleet website with contacts and bio
+baseurl: ""
+url: http://darleet.me
+
+# this information is shown on the homepage, all fields are optional and
+# can be declared either as a single string or as a string array/hash
+json:
+  name: darleet
+  description:
+    - Hello!
+    - I am a backend developer
+    - And also a second-year student
+  contact:
+    email: darleet@mail.ru
+    telegram: https://t.me/darl33t
+  profiles:
+    github: https://github.com/darleet
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
