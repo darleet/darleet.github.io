@@ -11,3 +11,12 @@ Hello, stranger! I am a second-year BMSTU student and a backend developer.
 I am a backend developer in ITS Tech - a BMSTU organisation that develops a
 comfortable environment for students. We deisgn new tools, new apps that meet
 the demands of modern society.
+
+## My BMSTU repositories
+
+- [Algorithms and Data Structures (Алгоритмы и Структуры Данных)](IU9-ADS)
+- [Informatics Basics (Основы Информатики)](IU9-InfBasics)
+- [Discrete Maths (Дискретная Математика)](IU9-Discrete)
+- [Programming Languages and Methods (ЯиМП)](IU9-PLaM)
+- [Low-level programming (Низкоуровневое программирование)](IU9-Assembler)
+- [Computer Networks (Компьютерные Сети)](IU9-Networks)
