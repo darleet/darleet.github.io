@@ -10,14 +10,18 @@ url: http://darleet.me
 json:
   name: darleet
   description:
-    - Hello!
-    - I am a backend developer
-    - And also a second-year student
+    - hello!
+    - i am a second-year BMSTU student
+    - and also a backend developer in ITS Tech
+    - feel free to write to me
   contact:
     email: darleet@mail.ru
-    telegram: https://t.me/darl33t
+    telegram: @darl33t
   profiles:
+    vk: https://vk.com/darl33t
     github: https://github.com/darleet
+    linkedin: https://www.linkedin.com/in/ivan-pavlov-ba225127b/
+    stackoverflow: https://stackoverflow.com/users/13029632/darleet
 
 exclude:
   - LICENSE
